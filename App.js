@@ -25,7 +25,7 @@ function App(){
       <BrowserRouter>  
       <Routes>
       
-      <Route path='/serviceDescription/:id'  render={(props) => <Description {...props} headerText="ghjk"/>} />
+      <Route path='/serviceDescription/:id'  render={(props) => <Description  headerText="ghjk"/>} />
     
       <Route path='/' element={<Navbar />} />
       <Route path='/aboutus' element={<Aboutus />} />
