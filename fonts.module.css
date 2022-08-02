@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Crimson+Text&family=Lobster&family=Arima&family=Ubuntu+Condensed&display=swap');
+
+  .lobster{
+    font-family: 'Lobster';
+    color: #0898E7;
+    
+  }
+
+  .abel{
+    font-family: 'Abel';
+  }
+
+  .arima{
+    font-family: 'Arima';
+   font-weight: bolder;
+   color: #0898E7;
+    font-size: large;
+  }
+
+.ubuntu{
+    font-family: 'Ubuntu Condensed';
+  }
+
+  
+  
